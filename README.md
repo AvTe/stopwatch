@@ -1,2 +1,2 @@
 # stopwatch
-# using HTM;L ,CSS ,JS
+ using HTML ,CSS ,JS
